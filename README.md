@@ -1,2 +1,3 @@
 # dio-desafio-github-primeiro-repositorio
 Desafio de Projeto sobre Git/Github
+Criei apenas para ser didatico e enteragir com o curso...
